@@ -10,7 +10,6 @@ This command will install all the necessary dependencies.
 
 ```
 npm install
-
 ```
 
 This command will start the devlopement server.
